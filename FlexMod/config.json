@@ -1,0 +1,9 @@
+{
+    "mods_dir": "D:/app/Steam/steamapps/common/7 Days To Die/Mods",
+    "lang": 1,
+    "Enabled_FlexMod": [
+        "v2.0_CGHOU_7dtd_BHC_0.0.1",
+        "v2.5_CGHOU_7dtd_Goodkitty_0.0.1"
+    ],
+    "player_mode_enabled": true
+}
